@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/harshit/Documents/TCO-15/platforms/ios/TCO-15/Plugins/org.apache.cordova.console/CDVLogger.m \
+  /Users/harshit/Documents/TCO-15/platforms/ios/TCO-15/Plugins/org.apache.cordova.console/CDVLogger.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/harshit/Documents/TCO-15/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
