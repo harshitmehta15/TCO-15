@@ -4,9 +4,10 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 // 'starter.controllers' is found in controllers.js
-angular.module('starter', ['ionic', 'starter.controllers'])
+angular.module('starter', ['ionic', 'starter.controllers','ngOpenFB'])
 
-.run(function($ionicPlatform) {
+.run(function($ionicPlatform,ngFB) {
+  ngFB.init({appId: '1611654329119805'});
   $ionicPlatform.ready(function() {
     // Hide the accessory bar by default (remove this to show the accessory bar above the keyboard
     // for form inputs)
@@ -49,8 +50,7 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       }
     }
   })
-  
-    .state('app.playlists', {
+   .state('app.playlists', {
       url: "/playlists",
       views: {
         'menuContent': {
@@ -59,7 +59,30 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         }
       }
     })
-
+   .state('app.events', {
+    url: "/events",
+    views: {
+      'menuContent': {
+        templateUrl: "templates/events.html"
+      }
+    }
+  })
+  .state('app.venue', {
+    url: "/venue",
+    views: {
+      'menuContent': {
+        templateUrl: "templates/venue.html"
+      }
+    }
+  })
+  .state('app.sessions', {
+    url: "/sessions",
+    views: {
+      'menuContent': {
+        templateUrl: "templates/sessions.html"
+      }
+    }
+  })
   .state('app.single', {
     url: "/playlists/:playlistId",
     views: {
